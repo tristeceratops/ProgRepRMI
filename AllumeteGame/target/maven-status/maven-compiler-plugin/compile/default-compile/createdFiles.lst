@@ -1,0 +1,5 @@
+com\example\allumetegame\JeuAllumette.class
+com\example\allumetegame\RMI\AllumetteInterface.class
+com\example\allumetegame\RMI\Serveur.class
+module-info.class
+com\example\allumetegame\RMI\Client.class
